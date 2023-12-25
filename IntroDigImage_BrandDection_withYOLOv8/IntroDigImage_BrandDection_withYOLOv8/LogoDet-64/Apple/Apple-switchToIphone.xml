@@ -1,0 +1,25 @@
+<annotation verified="no">
+	<folder>Apple</folder>
+	<filename>Apple-switchToIphone.jpg</filename>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1440</width>
+		<height>797</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Apple</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>906</xmin>
+			<ymin>393</ymin>
+			<xmax>961</xmax>
+			<ymax>453</ymax>
+		</bndbox>
+	</object>
+</annotation>

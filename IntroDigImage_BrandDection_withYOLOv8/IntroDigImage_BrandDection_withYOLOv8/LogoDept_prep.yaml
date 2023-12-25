@@ -1,0 +1,68 @@
+path: ./LogoDet_prep
+train: images/train
+val: images/val
+names:
+  0: BMW
+  1: BUGATTI
+  2: mclaren
+  3: Maserati
+  4: Hyundai
+  5: Lamborghini
+  6: Bentley
+  7: Chevrolet
+  8: Isuzu
+  9: land rover
+  10: lexus
+  11: Mazda
+  12: saab
+  13: toyota
+  14: vw
+  15: AKG
+  16: ASUS
+  17: Apple
+  18: BlackBerry
+  19: BenQ
+  20: BELKIN
+  21: Canon
+  22: EPSON
+  23: Ericsson
+  24: game boy
+  25: haier
+  26: HARMAN KARDON
+  27: Hisense
+  28: HTC
+  29: IBM
+  30: Logitech
+  31: MediaTek
+  32: meizu
+  33: roland
+  34: skyworth
+  35: viewsonic
+  36: xiaomi
+  37: Balenciaga
+  38: Armani
+  39: Birkenstock
+  40: Bottega Veneta
+  41: Bulgari
+  42: Calvin Klein
+  43: chanel
+  44: Celine
+  45: Champion
+  46: Chloe
+  47: Columbia
+  48: Converse
+  49: Guess
+  50: Guy Laroche
+  51: Hugo Boss
+  52: Kenzo
+  53: levis
+  54: miu miu
+  55: new balance
+  56: patek philippe
+  57: playboy
+  58: prada
+  59: tom ford
+  60: tommy hilfiger
+  61: uniqlo
+  62: valentino's
+  63: versace
